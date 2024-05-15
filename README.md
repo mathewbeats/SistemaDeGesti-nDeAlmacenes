@@ -1,0 +1,1 @@
+Este codigo demuestra el uso de un delegado genérico utilizado para definir un evento que se genera cada vez que se cambia una estructura de datos de cola genérica en nuestro sistema de gestion de inventario de un almacen.
