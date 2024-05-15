@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeGestionDeAlmacenes", "SistemaDeGestionDeAlmacenes\SistemaDeGestionDeAlmacenes.csproj", "{A9B53004-B1B0-42B0-ADD9-3E9BF50CF022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeGestionDeAlmacenesAPI", "SistemaDeGestionDeAlmacenesAPI\SistemaDeGestionDeAlmacenesAPI.csproj", "{D6CF1B59-206D-47D6-AF62-5A4F600EEEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B53004-B1B0-42B0-ADD9-3E9BF50CF022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B53004-B1B0-42B0-ADD9-3E9BF50CF022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B53004-B1B0-42B0-ADD9-3E9BF50CF022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B53004-B1B0-42B0-ADD9-3E9BF50CF022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CF1B59-206D-47D6-AF62-5A4F600EEEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CF1B59-206D-47D6-AF62-5A4F600EEEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CF1B59-206D-47D6-AF62-5A4F600EEEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CF1B59-206D-47D6-AF62-5A4F600EEEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {295844B3-08E5-41E1-8216-45E4992A8F08}
+	EndGlobalSection
+EndGlobal
